@@ -1,13 +1,4 @@
 import streamlit as st
-import data
-import userinterface
-from streamlit_option_menu import option_menu
-
-st.set_page_config(
-        page_title="Real-time Analytics",
-        initial_sidebar_state="expanded",
-        page_icon="",
-)
 
 st.write("Deploy Success")
 
